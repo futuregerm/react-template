@@ -1,0 +1,12 @@
+{
+  "name": "fake-shit-number-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd backend && npm install && cd ../frontend && npm install && cd ../",
+    "dev": "cd backend && npm run start-app"
+  },
+  "author": "",
+  "license": "ISC"
+}
